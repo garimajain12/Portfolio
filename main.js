@@ -69,6 +69,7 @@ sr.reveal('.skills__img', {delay: 400})
 /*SCROLL PORTFOLIO*/
 sr.reveal('.portfolio__img', {interval: 200})
 
+
 /*SCROLL CONTACT*/
 sr.reveal('.contact__subtitle', {})
 sr.reveal('.contact__text', {interval: 200})
